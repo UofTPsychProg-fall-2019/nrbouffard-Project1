@@ -1,0 +1,5 @@
+sceneface,facescene
+scenes/scene1.jpg,faces/face1.jpg
+faces/face1.jpg,scenes/scene1.jpg
+scenes/scene2.jpg,faces/face2.jpg
+faces/face2.jpg,scenes/scene2.jpg
